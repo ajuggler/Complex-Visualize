@@ -2,11 +2,11 @@
  
 A package for visualizing arbitrary complex functions.  Implements the strategy of domain coloring on the Riemann sphere.
 
-Authors:  Ma. de los Angeles Sandoval-Romero and Antonio Hernandez-Garduno.
+Authors:  Ma. de los Angeles Sandoval-Romero and Antonio Hernández-Garduño.
 
 ## Introduction
 
-*Domain coloring* is a technique for constructing a tractable visual object of the graph of a complex function.  The package *complexVisualize.wl* improves on existing domain coloring techniques by rendering a global picture fo the Riemann sphere (the compactification of the complex plane).  Additionally, the package allows dynamic visualization of families of Moebius transformations.
+*Domain coloring* is a technique for constructing a tractable visual object of the graph of a complex function.  The package *complexVisualize.wl* improves on existing domain coloring techniques by rendering a global picture on the Riemann sphere (the compactification of the complex plane).  Additionally, the package allows dynamic visualization of families of Möbius transformations.
 
 To learn more about this package and view some nice examples, refer to [this article](https://www.mathematica-journal.com/2015/11/30/domain-coloring-on-the-riemann-sphere/).
 
